@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e363dce-8532-4549-9770-07e71f2896fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/factorize_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorize_number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/is_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/is_simple.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +58,7 @@
       <command value="2012" />
     </option>
   </component>
-  <component name="RunManager" selected="Python.factorize_number">
+  <component name="RunManager" selected="Python.main">
     <configuration name="factorize_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
