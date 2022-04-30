@@ -3,4 +3,4 @@ class Person:
 
 p = Person()
 
-print()
+print(p)
