@@ -51,4 +51,3 @@ del droid1
 del droid2
 
 Robot.howMany()
-
