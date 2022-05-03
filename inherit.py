@@ -1,3 +1,6 @@
+from abc import *
+
+
 class SchoolMember:
     '''Представляет любого человека в школе.'''
 
@@ -6,9 +9,10 @@ class SchoolMember:
         self.age = age
         print('(Cоздан SchoolMember: {0})'.format(self.name))
 
+    @abstractmethod
     def tell(self):
         '''Вывести информацию.'''
-        print('Имя: "{0}" Возраст: "{1}"'.format(self.name, self.age))
+        print('Имя:"{0}" Возраст:"{1}"'.format(self.name, self.age), end=" ")
 
 
 class Teacher(SchoolMember):
